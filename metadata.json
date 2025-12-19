@@ -1,0 +1,5 @@
+{
+  "name": "Scholarship Screener Assistant",
+  "description": "A frontend-only tool to guide scholarship applicants in generating high-signal, reviewer-ready summaries for first-pass screening.",
+  "requestFramePermissions": []
+}
